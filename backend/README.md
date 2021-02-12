@@ -3,6 +3,8 @@ Backend service consists of an API that serves processed information. Sources fo
 
 ## Backend dependencies
 
+Copy of Apache License Version 2 is included in the repository with name apache2_LICENSE as Tensorflow, XgBoost and Request libraries are licensed under the Apache license version 2.
+
 - Name: NumPy
     - License: <a href="https://github.com/numpy/numpy/blob/master/LICENSE.txt">BSD 3-clause license</a>
 
@@ -50,7 +52,7 @@ Backend service consists of an API that serves processed information. Sources fo
 
 - Name: Requests
     - License: <a href="https://github.com/psf/requests/blob/master/LICENSE">Apache license 2.0</a>
-  - Notice file: can be found from "notices" folder with name NOTICE_requests
+  - Notice file: is appended to the NOTICE file found in this folder
 
 
 ## Building the backend
