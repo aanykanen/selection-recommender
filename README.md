@@ -2,7 +2,7 @@
 
 ## Introduction
 
-For my master's thesis I implemented a hybrid recommendation system that could be utilized in libraries for selecting books. The system combines a heuristics based system and a machine learning model to produce recommendations. The system works based on circulation logs and book metadata. There are two components in the system: frontend and backend. Each of these components have their respective dependencies. Backend is built with Python and frontend with React. <b>By no means this system is production ready or aims to be commercial, it is solely a part of research.</b>
+For my master's thesis I implemented a hybrid recommendation system that could be utilized in libraries for selecting books. The system combines a heuristics based system and a machine learning model to produce recommendations. The system works based on circulation logs and book metadata. There are two components in the system: frontend and backend. Each of these components have their respective dependencies. Backend is built with Python and frontend with React. <b>This system is not production ready and does not aim to be commercial. It was solely created for research purposes.</b>
 
 ## Thesis
 
