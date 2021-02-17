@@ -6,7 +6,7 @@ For my master's thesis I implemented a hybrid recommendation system that could b
 
 ## Thesis
 
-The finished thesis can be found at: LINK MISSING AS THESIS IS NOT YET APPROVED TO SYSTEM.
+The finished thesis can be found at: http://jultika.oulu.fi/Record/nbnfioulu-202102161173
 
 ## Licensing
 
