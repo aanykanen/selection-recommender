@@ -2,8 +2,7 @@
 Backend service consists of an API that serves processed information. Sources for the processed information are a local database that is constructed during the building phase and a machine learning model that is trained during the building phase. The API service is handled by a simple Flask app.
 
 ## Backend dependencies
-
-Copy of Apache License Version 2 is included in the repository with name apache2_LICENSE as Tensorflow, XgBoost and Request libraries are licensed under the Apache license version 2.
+Licenses of dependencies can be found from the repositories of declared dependencies.
 
 - Name: NumPy
     - License: <a href="https://github.com/numpy/numpy/blob/master/LICENSE.txt">BSD 3-clause license</a>
